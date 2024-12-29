@@ -1,17 +1,17 @@
 # DOH-EPI Dengue Data 2016-2021 EDA and Visualization
 ---
 ## Table of Contents
-1. [Introduction](##introduction)
-2. [Dataset Description](##dataset-description)
-3. [Objective](Objective)
-4. [EDA Overview](EDA-Overview)
-5. [Visualizations](Visualizations)
-6. [Technologies Used](Technologies-Used)
-7. [Project Structure](Project-Structure)
-8. [Setup Instructions](Setup-Instructions)
-9. [Results and Insights](Results-and-Insights)
-10. [Future Work](Future-Work)
-11. [Contact Information](Contact-Information)
+1. [Introduction](#introduction)
+2. [Dataset Description](#dataset-description)
+3. [Objective](#Objective)
+4. [EDA Overview](#EDA-Overview)
+5. [Visualizations](#Visualizations)
+6. [Technologies Used](#Technologies-Used)
+7. [Project Structure](#Project-Structure)
+8. [Setup Instructions](#Setup-Instructions)
+9. [Results and Insights](#Results-and-Insights)
+10. [Future Work](#Future-Work)
+11. [Contact Information](#Contact-Information)
 ---
 ## Introduction
 Dengue is a mosquito-borne illness common in warm, tropical areas like our country, the Philippines. It can cause a nasty fever, headaches, muscle and joint aches, nausea, and a rash. 
