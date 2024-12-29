@@ -113,9 +113,10 @@ This may suggest that a **non-linear approach** to explore non-linear patterns w
  ![Dengue Cases and Deaths in NCR Stacked Bar Chart](https://github.com/user-attachments/assets/aa0a9275-8f4b-4e35-80a7-df5af8351835)
 
 
- According to GMA (2019), when it comes to the amount of trash in Quezon City, consider the geographic location of the area and number of squatters.
-
+ According to GMA (2019), when it comes to the amount of trash in Quezon City, consider the geographic location of the area and number of squatters. 
+ 
  The geographic and population factors may have contributed to its death count.
+ 
  ---
  
  ## Technologies Used
